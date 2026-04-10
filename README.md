@@ -30,6 +30,8 @@ Then, you'll want to:
 Now head to [CurlConverter](https://curlconverter.com), paste what you've just copied into the main text box of the site, and copy every line of the output except for the first and the last (see the green line in screenshot:)
 ![alt text](image-1.png)
 
+Now we'll need the files from this repo, so if you haven't already, run `git clone https://github.com/kylefmohr/radio_recorder` (or use the [zip file here](https://github.com/kylefmohr/radio_recorder/archive/refs/heads/main.zip) and extract it)
+
 Finally! Go to main.py and replace this:
 
 ```
